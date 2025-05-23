@@ -8,9 +8,14 @@ Whether you're showcasing exotic cars, creating a virtual showroom, or building 
 
 ## 🖼️ Website Preview
 
-> Add your actual screenshot file to the `/assets/images` folder and replace the image path below.
+![LuxAuto Home Page](assets/images/preview.png)
 
-![LuxAuto Screenshot](assets/images/preview.png)
+![Section 1](assets/images/car1.jpg)
+
+![Section 2](assets/images/car2.jpg)
+
+![Section 3](assets/images/logo.png)
+
 
 ---
 
