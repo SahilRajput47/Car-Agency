@@ -110,7 +110,4 @@ This project is open source under the MIT License. Feel free to use, modify, and
 
 🚧 Note: This is a frontend-only template. Backend/database features are not yet implemented.
 
-
----
-
 Let me know if you want me to include a license file (`LICENSE`), a contribution section, or instructions to deploy this on GitHub Pages or Netlify.
