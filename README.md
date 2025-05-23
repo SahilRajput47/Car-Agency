@@ -1,4 +1,5 @@
-# 🚗 LuxAuto | Premium Car Dealership
+# 🚗 # MONARCH ✨ X MOTORS
+| Premium Car Dealership
 
 **LuxAuto** is a modern and high-end car dealership website that redefines the online car-buying experience. Designed with a **bold black and yellow theme**, LuxAuto reflects the elegance and power of luxury cars like **Mercedes, Range Rover, BMW, and Audi**. Built with the latest web technologies like **HTML5**, **Tailwind CSS**, and **JavaScript**, it offers a seamless, stylish, and responsive experience across all devices.
 
@@ -8,13 +9,15 @@ Whether you're showcasing exotic cars, creating a virtual showroom, or building 
 
 ## 🖼️ Website Preview
 
-![LuxAuto Home Page](assets/images/preview.png)
+![LuxAuto Home Page](car1.png)
 
-![Section 1](assets/images/car1.jpg)
+![Section 1](car2.png)
 
-![Section 2](assets/images/car2.jpg)
+![Section 2](car3.png)
 
-![Section 3](assets/images/logo.png)
+![Section 3](car4.png)
+
+![Section 3](car5.png)
 
 
 ---
